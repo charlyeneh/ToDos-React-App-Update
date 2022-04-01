@@ -8,7 +8,7 @@ const TodoItem = (props) => {
 
   useEffect(() => {
     return () => {
-      console.log("Cleaning up...")
+      // console.log("Cleaning up...")
     }
   }, [])
 
