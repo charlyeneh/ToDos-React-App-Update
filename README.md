@@ -1,73 +1,31 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## React Tutorial – The Beginners Guide to Learning React JS in 2020
 
-# Project Name
+[To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
 
-> Description the project.
+### Clone the starter project
 
+You can download or clone this project by running this command from your terminal:
 
-## Built With
+```
+git clone https://github.com/Ibaslogic/react-todo-app
+```
 
-- Major languages
-- Frameworks
-- Technologies used
+This will create a directory in the name of the project folder.
 
-## Live Demo (if available)
+Once you have the project files and folders bootstrapped, open it with your text editor.
 
-[Live Demo Link](https://livedemo.com)
+Next, switch inside the project directory and run:
 
+```
+npm install
+```
 
-## Getting Started
+This will install all the necessary dependencies in the local `node_modules` folder.
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Finally, start your development server by running:
 
+```
+npm start
+```
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
